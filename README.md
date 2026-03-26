@@ -1,1 +1,1 @@
-# Python script for controlling BK9130 via serial interface
+# Python script for controlling the BK9130 via serial interface
